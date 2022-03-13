@@ -1,4 +1,4 @@
-# Screen-Brightness-Control-using-Fingers
+# Controlling the Screen Brightness using your Fingers!
 
 Hello reader!<br>
 Thank you for looking at my post!<br>
