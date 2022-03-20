@@ -31,7 +31,7 @@ When you bring your index and thumb finger near, then the screen brightnss is de
 # Conclusion
 
 I hope you found my project helpul.
-Feel free to star this project and follow me as well.
+Feel free to star this project and follow me as well, also report issues if any.
 
 # Contact
 
